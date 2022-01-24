@@ -1,6 +1,7 @@
 ![microverse-logo](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Hello World REACT-RAILS BACK-END APP
+# HELLO WORLD REACT-RAILS BACK-END APP
+
 
 This is a simple study project, Here I'm creating a rails API to provide data to a front-end app!
 
